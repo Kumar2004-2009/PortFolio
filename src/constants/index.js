@@ -65,11 +65,11 @@ import {
     },
     {
       name: "React Js",
-      icon: reactjs,
+      icon: cpp,
     },
     {
       name: "Tailwind CSS",
-      icon: tailwind,
+      icon: java,
     },
     {
       name: "Node JS",
