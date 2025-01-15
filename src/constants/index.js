@@ -64,6 +64,14 @@ import {
       icon: java,
     },
     {
+      name: "C++",
+      icon: cpp,
+    },
+    {
+      name: "Java",
+      icon: java,
+    },
+    {
       name: "Node JS",
       icon: nodejs,
     },
