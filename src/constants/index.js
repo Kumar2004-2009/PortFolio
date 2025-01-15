@@ -64,14 +64,6 @@ import {
       icon: java,
     },
     {
-      name: "React Js",
-      icon: cpp,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: java,
-    },
-    {
       name: "Node JS",
       icon: nodejs,
     },
@@ -90,6 +82,14 @@ import {
     {
       name: "figma",
       icon: figma,
+    },
+    {
+      name: "React Js",
+      icon: reactjs,
+    },
+    {
+      name: "Tailwind CSS",
+      icon: tailwind,
     },
   ];
   
@@ -151,27 +151,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
+        "Working with Piyush has been a game-changer for our team. Their innovative approach to problem-solving and deep technical expertise is remarkable. They’ve consistently exceeded our expectations",
+      name: "Anjali Mehta",
+      designation: "Senior Software Engineer",
       company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      image: "https://thumbs.dreamstime.com/b/black-happy-girls-icon-vector-woman-icon-illustration-face-young-face-people-icons-cartoon-style-people-72080969.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
+        "“Piyush’s dedication and eye for detail have significantly improved our project outcomes. Their proactive approach to tackling challenges makes them a great asset to any team.",
+      name: "Rahul Sharma",
+      designation: "Project Manager",
       company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp3oYa9BljpcyhfIwVizBrEuo4HjsWq1mNzw&s",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+        "The insights and technical acumen that Piyush brought to the table were invaluable. They demonstrate true leadership and dedication.",
+      name: "Arjun Deshmukh",
       designation: "CTO",
       company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      image: "https://cdn-icons-png.flaticon.com/512/4086/4086679.png",
     },
   ];
   
