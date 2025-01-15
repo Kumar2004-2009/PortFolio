@@ -10,6 +10,8 @@ import penny from "./penny.png";
 import study from "./study.png";
 import shopify1 from "./shopify.png";
 import bg from "./bg.png";
+import cpp from "./cpp.png";
+import java from "./java.png";
 
 import css from "./tech/css.png";
 import figma from "./tech/figma.png";
@@ -34,6 +36,8 @@ export {
   backend,
   bg,
   web,
+  cpp,
+  java,
   contact,
   github,
   menu,

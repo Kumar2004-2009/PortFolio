@@ -14,6 +14,8 @@ import {
     shopify1,
     penny,
     study,
+    cpp,
+    java,
     ui,
     threejs,
   } from "../assets";
@@ -54,23 +56,15 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
+      name: "C++",
+      icon: cpp,
     },
     {
-      name: "CSS 3",
-      icon: css,
+      name: "Java",
+      icon: java,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
-    },
-    {
-      name: "React JS",
-      icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
+      name: "React Js",
       icon: reactjs,
     },
     {
@@ -86,7 +80,7 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
+      name: "JavaScript",
       icon: javascript,
     },
     {
